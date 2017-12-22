@@ -1,5 +1,6 @@
 # Deprecated
 Please see: https://github.com/martinlindhe/base16-iterm2
+<hr>
 
 # Base16 iTerm2
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.  
