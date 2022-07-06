@@ -11,8 +11,8 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
 + Click on Color Presets > Import and import your favorite theme from this repo
 + Load the theme by clicking on Load Presets and selecting it
 
-![Base16 Default iTerm2](https://raw.github.com/chriskempson/base16-iterm2/master/base16-iterm2.png)
-![Base16 Default iTerm2 256](https://raw.github.com/chriskempson/base16-iterm2/master/base16-iterm2-256.png)  
+![Base16 Default iTerm2](base16-iterm2.png)
+![Base16 Default iTerm2 256](base16-iterm2-256.png)  
 Base16 Default and Base16 Default 256
 
 ## "256" Variations
